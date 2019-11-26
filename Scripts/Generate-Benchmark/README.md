@@ -18,7 +18,7 @@
 
 #### Will call:
 
-* `process.chiapet.py` OR `process.eqtl.py` OR `process.crispr.py`
+* `process.3Dchrom.py` OR `process.eqtl.py` OR `process.crispr.py`
 
 * `calculate.distance.py`
 
