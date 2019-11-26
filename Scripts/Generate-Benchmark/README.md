@@ -1,16 +1,19 @@
 ## Scripts for generating benchmark datasets
 
 ### Generating Benchmark
+
+```
 ./Generate-Benchmark.sh biosample linkType rawLinks name blackList
+```
 
-	biosample = [GM12878, HeLa-S3, K562, ...]
+* biosample = [GM12878, HeLa-S3, K562, ...]
 
-	lineType = [ChIA-PET, Hi-C, CHi-C, eQTLs, CRISPR]
+* lineType = [ChIA-PET, Hi-C, CHi-C, eQTLs, CRISPR]
 
-	rawLinks = path to raw data
+* rawLinks = path to raw data
 
-	name = [GM12878.RNAPII-ChIAPET, GM12878-HiC, ...]
+* name = [GM12878.RNAPII-ChIAPET, GM12878-HiC, ...]
 
-	blacklist = [yes, no]
+* blacklist = [yes, no]
 
 
