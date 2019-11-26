@@ -16,7 +16,19 @@
 
 * *blacklist* = should you blacklist ambiguous pairs [yes, no]
 
-Example: to generate ELS-gene pairs using GM12878 RNAPII ChIA-PET data and removing ambiguous pairs
+#### Will call:
+
+* `process.chiapet.py` OR `process.eqtl.py` OR `process.crispr.py`
+
+* `calculate.distance.py`
+
+* `create.experiment.sets.py`
+
+* `assign.groups.py`
+
+* `select.ratio.pairs.py`
+
+#### Example: to generate ELS-gene pairs using GM12878 RNAPII ChIA-PET data and removing ambiguous pairs
 ```
 ./Generate-Benchmark.sh GM12878 ChIA-PET GSM1872887_GM12878_RNAPII_PET_clusters.txt GM12878.RNAPII-ChIAPET yes
 ```
