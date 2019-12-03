@@ -1,11 +1,12 @@
-#BENGI: Benchmark of Enhancer Gene Interactions
+## BENGI datasets
 
-*All-Pairs.Fixed-Ratio*
+Four versions of the BENGI datasets:
 
-*All-Pairs.Natural-Ratio*
+* *All-Pairs.Natural-Ratio*
 
-*Remove-Ambiguous-Pairs.Fixed-Ratio*
+* *All-Pairs.Fixed-Ratio*
 
-Benchmark pairs 
+* *Remove-Ambiguous-Pairs.Natural-Ratio*
 
-*Remove-Ambiguous-Pairs.Natural-Ratio*
+* *Remove-Ambiguous-Pairs.Fixed-Ratio*
+
