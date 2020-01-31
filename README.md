@@ -1,3 +1,3 @@
-#BENGI: Benchmark of Enhancer Gene Interactions
+## BENGI: Benchmark of Enhancer Gene Interactions
 
-Annotations and scripts from Moore...Weng (2020) Genome Biology
+Annotations and scripts from *Moore...Weng (2020) Genome Biology*
