@@ -1,6 +1,6 @@
 ## Additional annotation files
 
-hg19-cCREs.bed.gz is a bed file with the coordinates for 1.3 million 
+*hg19-cCREs.bed.gz* is a bed file with the coordinates for 1.3 million 
 cCREs across the hg19 genome. Columns correspond to:
 * chromosome
 * start
@@ -10,3 +10,8 @@ cCREs across the hg19 genome. Columns correspond to:
 * cCRE group (cell type agnostic)
 
 Cell type specific cCRE annotations can be found at the ENCODE portal.
+
+
+
+*GENCODEv19-TSSs.bed.gz* is a bed file with the positions of GENCODEv19 TSSs
+included in our benchmark.
